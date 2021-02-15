@@ -10,10 +10,10 @@ In this version the names of the constellations are not altered but merely trans
 
 The constellation art are from the default Stellarium constellation artwork. No changes have been made.
 
-###Star names
+### Star names
 The stars that are used to identify each lunar mansion have names in this culture and a few other prominent stars are also given names in Kannada.
   
-##Installation
+## Installation
 Simply copy the folder 'Kannada (Modern)' to the stellarium skycultures directory. 
 Default: C:\Program Files\Stellarium\skycultures
 Load the star lore : Kannada (Modern)
