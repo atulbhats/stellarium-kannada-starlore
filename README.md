@@ -1,22 +1,25 @@
 # stellrium-kannada-starlore
-A Starlore from the Modern Kannada Astronomy
 
-Kannada Constellation Names as mentioned in the book 'Nakshatra Darshana' by Prof. R.L Narasimhaiah (1954).
+A Starlore from the Indian Astronomy Observations, catalogued in Kannada
 
 Starlore developed by [Poornaprajna Amateur Astronomers' Club]("https://paac.ppc.ac.in"), Udupi nder the guidance of Dr. A.P.Bhat, Udupi and Dr. [B.S.Shylaja](https://scholar.google.com/citations?user=k8_GPYEAAAAJ&hl=en&oi=sra), Bengaluru.
 
 ### Constellations
-In this version the names of the constellations are not altered but merely translated except for a few. While most constellations are depicted by their Greek counterparts with translated names, the characters from Greek Mythology have been replaced with names of characters from Mahabharata. Ursa Major and Ursa Minor however are called the Saptarishi (Seven Sages) and Seven Sages Minor in this set of names.
+The constellation names in this starlore comes the 88 names for the IAU designated constellations, as published by Prof. R.L. Narasimhaiah in his Book Nakshatra Darshana. In his effort to unite astronomical names across cultures, most of these names are Kannada Equivalent of the IAU adopted names. The name of constellations that depict a character from the Greek Mythology have been given names  of characters from Indian scriptures and epics like  the Mahabharata.
 
 The constellation art are from the default Stellarium constellation artwork. No changes have been made.
 
 ### Star names
-The stars that are used to identify each lunar mansion have names in this culture and a few other prominent stars are also given names in Kannada.
+27 stars along the Moon's path along the Zodiac belt have been given prominent names. Along with these prominent names, many other stars have been named and catalogued by Ancient Indian astronomers. These names as studied by Dr.Shylaja and Dr. V. Pai, have been added in this sky culture.
   
 ## Installation
-Simply copy the folder 'Kannada (Modern)' to the stellarium skycultures directory [Default: C:\Program Files\Stellarium\skycultures]
+Copy the direcotry 'Kannada'  and its contents to the skycultures directory in the Stellarium installation. [Default: C:\Program Files\Stellarium\skycultures]
 
-Load the star lore : Kannada (Modern)
+## Usage
+In stellarium, Sky and Viewing options window [F4] will list 'Kannada' under _Starlore_  tab. 
+
+#### Note:
+Due to the Kannada typeface, Adjust Constellation and GUI font sizes.
 
 ### Contact
-for queries paac@ppc.ac.in
+For queries and more infomation: paac@ppc.ac.in
