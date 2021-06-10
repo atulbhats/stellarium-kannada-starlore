@@ -1,4 +1,4 @@
-# stellrium-kannada-starlore
+# Stellarium Kannada Starlore
 
 A Starlore from the Indian Astronomy Observations, catalogued in Kannada
 
@@ -26,3 +26,6 @@ Due to the Kannada typeface, Adjust Constellation and GUI font sizes.
 
 ### Contact
 For queries and more infomation: paac@ppc.ac.in
+
+#### Download Stellarium
+https://stellarium.org
