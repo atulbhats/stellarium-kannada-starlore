@@ -2,8 +2,15 @@
 <p>Kannada Constellation Names as mentioned in the book 'Nakshatra Darshana' by R.L Narasimhaiah (1954).</p>
 <p>Starlore developed by Poornaprajna Amateur Astronomers' Club, Udupi (<a href="https://paac.ppc.ac.in">https://paac.ppc.ac.in</a>) under the guidance of Dr. A.P.Bhat, Udupi and Dr. B.S.Shylaja, Bengaluru.</p>
 
+<p>Dr. B.S. Shylaja (JNP-BLR) along with Dr. Venkateshwara Pai (IISER-Pune), have gone through the various Indian texts with Astronomical observational data like the Sarvasiddha¯ntara¯jaby Nitya¯nanda, Siddhāntadarpan̟a by Candraśekhara Sāmanta, Sūryasiddhānta etc; In these works they have translated and put together the co-ordinates mentioned by these early astronomers, and compared them with the star co-ordinates and current designations of the stars. They have also verified and corrected some of the mismatching data using Stellarium itself.</p>
+
+<p>PAAC is happy to Present their work and create this stellarium mod to acknowledge the work of ancient Indian astronomers in cataloging the stars observed and the deciphering efforts by Dr. Shylaja and Dr. Pai.</p> 
+
 <h3>Constellations</h3>
-<p>In this version the names of the constellations are not altered but merely translated except for a few. While most constellations are depicted by their Greek counterparts with translated names, the characters from Greek Mythology have been replaced with names of characters from Mahabharata. Ursa Major and Ursa Minor however are called the Saptarishi (Seven Sages) and Seven Sages Minor in this set of names.</p>
+<p> The constellation names in this starlore comes the 88 names for the IAU designated constellations, as published by Prof. R.L. Narasimhaiah in his Book Nakshatra Darshana. In his effort to unite astronomical names across cultures, most of these names are Kannada Equivalent of the IAU adopted names. The name of constellations that depict a character from the Greek Mythology have been given names  of characters from Indian scriptures and epics like  the Mahabharata.</p>
+
+<p>Ursa Major and Ursa Minor however are called the Saptarishi (Seven Sages) and Seven Sages Minor, as named by Prof. Narasimhaiah.</p>
+
 <p>The constellation art are from the default Stellarium constellation artwork. No changes have been made.</p>
 
 <h3>Star names</h3>
@@ -13,5 +20,7 @@
 <ol>
 <li>Nakshatra Darshana by R.L. Narasimhaiah, Pub.: Kannada Sahithya Parishad (1954). ISBN: 1234567115270</li>
 <li>Wikipedia Page: Nakshatra - https://en.wikipedia.org/wiki/Nakshatra</li>
-<li>B. Shylaja, R. V. Pai., <i>Observational Records of Stars in Indian Astronomical Texts</i>, Published 2018 , Current Science</li>
+<li>Measurement of coordinates of Naksatras in Indian astronomy - Venkateshwara R Pai, B.S. Shylaja. Current Science. Vol 111 Nov. 2016</li>
+<li>Observational records of stars in Indian astronomical texts - Venkateshwara R Pai, B.S. Shylaja. Current Science. Vol 115 Nov. 2018</li>
+<li>The southern stars identified in Indian astronomical catalogues - Venkateshwara R Pai, B.S. Shylaja. Journal of Astrophysics and Astronomy. Vol 47 July. 2020</li>
 </ol>
