@@ -16,7 +16,7 @@ The constellation art are from the default Stellarium constellation artwork. No 
 The planets and the names are named with their Kannada equivalent names 
   
 ## Installation
-Copy the direcotry 'Kannada'  and its contents to the skycultures directory in the Stellarium installation. [Default: C:\Program Files\Stellarium\skycultures]
+Copy the direcotry 'Kannada'  and its contents to the skycultures directory in the Stellarium installation. `[Default: C:\Program Files\Stellarium\skycultures]`
 
 ## Usage
 In stellarium, Sky and Viewing options window [F4] will list 'Kannada' under _Starlore_  tab. 
