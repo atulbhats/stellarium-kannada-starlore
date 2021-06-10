@@ -11,6 +11,9 @@ The constellation art are from the default Stellarium constellation artwork. No 
 
 ### Star names
 27 stars along the Moon's path along the Zodiac belt have been given prominent names. Along with these prominent names, many other stars have been named and catalogued by Ancient Indian astronomers. These names as studied by Dr.Shylaja and Dr. V. Pai, have been added in this sky culture.
+
+### Planets
+The planets and the names are named with their Kannada equivalent names 
   
 ## Installation
 Copy the direcotry 'Kannada'  and its contents to the skycultures directory in the Stellarium installation. [Default: C:\Program Files\Stellarium\skycultures]
