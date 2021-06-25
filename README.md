@@ -30,7 +30,10 @@ In stellarium, Sky and Viewing options window [F4] will list 'Kannada' under _St
 Due to the Kannada typeface, Adjust Constellation and GUI font sizes.
 
 ### Contact
-For queries and more infomation: paac@ppc.ac.in
+For queries and more infomation: paac@ppc.edu.in
+
+#### Error(s) & Suggestions
+You can also send us papers and books that mention star names that have been missed, to the above email. We'd love to add it.
 
 #### Download Stellarium
 https://stellarium.org
