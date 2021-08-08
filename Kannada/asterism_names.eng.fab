@@ -1,3 +1,5 @@
 # Large seasonal asterisms
-GDi	_("Great Diamond","asterism")
-Krt _("Krittika","nakshatra")
+
+Krt _("ಕೃತ್ತಿಕಾ","nakshatra")
+Btr _("ಬೇಸಿಗೆ ತ್ರಿಕೋನ ,"asterism")
+NCh _("ನಕುಲ ಚಚ್ಚೌಕ","asterism")
