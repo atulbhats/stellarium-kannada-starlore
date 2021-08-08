@@ -28,6 +28,7 @@ In stellarium, Sky and Viewing options window [F4] will list 'Kannada' under _St
 
 #### Note:
 Due to the Kannada typeface, Adjust Constellation and GUI font sizes.
+[Nirmala UI](https://www.wfonts.com/font/nirmala-ui) or [Tunga](https://www.wfonts.com/font/tunga) fonts might be required to be installed on the system in order to render the typeface correctly. 
 
 ### Contact
 For queries and more infomation: paac@ppc.edu.in
