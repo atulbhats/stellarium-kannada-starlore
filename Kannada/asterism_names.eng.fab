@@ -1,5 +1,11 @@
 # Large seasonal asterisms
-
-Krt _("ಕೃತ್ತಿಕಾ","nakshatra")
-Btr _("ಬೇಸಿಗೆ ತ್ರಿಕೋನ ,"asterism")
-NCh _("ನಕುಲ ಚಚ್ಚೌಕ","asterism")
+SpT	_("ವಸಂತ ತ್ರಿಕೋನ","asterism")
+STr	_("ಬೇಸಿಗೆ ತ್ರಿಕೋನ","asterism")
+GSP	_("ನಕುಲ ಚಚ್ಚೌಕ ","asterism")
+WTr	_("ಚಳಿಗಾಲದ ತ್ರಿಕೋಣ","asterism")
+## Form-forming asterisms
+## Associative and sectional asterisms
+BDr	_("ಸಪ್ತರ್ಷಿ ಮಂಡಲ","asterism")
+LDr	_("ಲಘು ಸಪ್ತರ್ಷಿ ಮಂಡಲ","asterism")
+## Binocular asterisms
+## Telescopic asterisms
